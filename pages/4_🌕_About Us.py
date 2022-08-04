@@ -13,7 +13,7 @@ with st.container():
     st.subheader("Programmer")
     # silakan isi sesuai dengan keinginan ini contoh aja
     st.write(
-        "Perkenalkan saya adalah [Mei Purweni](https://twitter.com/), saat ini saya ....")
+        "Perkenalkan saya adalah [Mei Purweni](https://twitter.com/), saat ini saya berdomisili di Jogjakarta dan saya mengajar di Universitas Duta Bangsa Surakarta")
 
 with st.container():
     st.write('---')
